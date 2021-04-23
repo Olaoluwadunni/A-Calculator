@@ -1,2 +1,2 @@
 # A-Calculator
-A calculator built with javascript that performs basic mathematical operations
+A calculator built with HTML that performs basic mathematical operations
